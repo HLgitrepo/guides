@@ -12,7 +12,7 @@ This will show some data about the state of a ship on certain day(s). The argume
   - `resources`: The resources that ship had on the day.
   - `has_tag`: Which ships had a text inside their names. (usefull to check all ships with certain tag or name)
 - `split_by`: Defines the split character used to *IdsInput*. (default is `,`)
-- `ships`: An *IdsInput* with the ship IDs to be searched (or 'names' if this option is selected on `data`).
+- `ships`: An *IdsInput* with the ship IDs to be searched (or texts that a ship name contain if 'data' is `has_tag` is selected on `data`).
 - `days`: An integer of how many days before today the search should be. By default it takes all data available.
 ## /get_logs
 This will show all items transfered from one place to another. (Which includes Farmed -> Ship, Ship -> Destroied, Ship -> Ship).
@@ -29,9 +29,9 @@ The filter arguments, the ones that decide which data will be get or no, are (no
 - `end`: A *DateInput* where the search will stop.
 - `split_by`: Defines the split character used to *IdsInput*. (default is `,`)
 - `src_type`: If the src must be ship IDs (where 0 will be "mined/farmed") or if ship name contains a text (check `/ship_data`), by default it take ship IDs.
-- `src`: An *IdsInput* containing the sources that the search will be limited to, if empty it will get any source.
+- `src`: An *IdsInput* (or text if 'src_type' is set to such) containing the sources that the search will be limited to, if empty it will get any source.
 - `dst_type`: If the dst must be ship IDs (where 0 will be "destroied") or if ship name contains a text (check `/ship_data`), by default it take ship IDs.
-- `dst`: An *IdsInput* containing the destinations that the search will be limited to, if empty it will get any destination.
+- `dst`: An *IdsInput* (or text if 'dst_type' is set to such) containing the destinations that the search will be limited to, if empty it will get any destination.
 - `ejected_by` can be:
   - `Normal`: Will only get items ejected by ejectors and farmed/mined.
   - `Hurt`: Will only get items get by damaging __ships__.

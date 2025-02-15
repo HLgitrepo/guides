@@ -28,9 +28,9 @@ The filter arguments, the ones that decide which data will be get or no, are (no
 - `start`: A *DateInput* where the search will begin.
 - `end`: A *DateInput* where the search will stop.
 - `split_by`: Defines the split character used to *IdsInput*. (default is `,`)
-- `src_type`: If the src must be ship IDs (where 0 will be "mined/farmed") or if ship name contains a text (check `/ship_data`), by default it take ship IDs.
+- `src_type`: If the src must be ship IDs (where 0 will be "mined/farmed", *broken feature*) or if ship name contains a text (check `/ship_data`), by default it take ship IDs.
 - `src`: An *IdsInput* (or text if 'src_type' is set to such) containing the sources that the search will be limited to, if empty it will get any source.
-- `dst_type`: If the dst must be ship IDs (where 0 will be "destroied") or if ship name contains a text (check `/ship_data`), by default it take ship IDs.
+- `dst_type`: If the dst must be ship IDs (where 0 will be "destroied", *broken feature*) or if ship name contains a text (check `/ship_data`), by default it take ship IDs.
 - `dst`: An *IdsInput* (or text if 'dst_type' is set to such) containing the destinations that the search will be limited to, if empty it will get any destination.
 - `ejected_by` can be:
   - `Normal`: Will only get items ejected by ejectors and farmed/mined.
@@ -53,6 +53,8 @@ To consider if a ship is "related" the following arguments will be used:
 This will simply return the Integer ids that IA bot uses to express game items (same as drednot uses), game zones and game servers (deprecated due 1 single server).
 ## /read_ship_list
 Will get an text file with a JSON inside, provided by `https://drednot.io/shiplist?server=0`, and give ships IDs togheter split by ',' in a way that it can be copied and paste to other commanders. There will be 4 categories where ships will be show: Where *owned* is set as "True", where *saved* is set as "True", where either *owned* and *saved* are set as "True", and where both *owned* and *saved* are set as "False" (the ships that didnt fit on other categories).
+## /raw_values
+Get a md file from `/get_logs` command and transform values into their costs, is possible to assign manually prices/values via `prices` argument, where you insert item id (Integer) and the cost of it (using *Float*) split by `:`, and different arguments split by `,`. (For example to set metal value to 1 flux and explosives to 0.5 you write `1:1,2:0.5`)
 ## /send_et_data
 Send a text defined on `message` argument to the event tracker ship chat. It can even be commands such "/save". (Restricted command)
 

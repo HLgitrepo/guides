@@ -15,8 +15,8 @@ This will show some data about the state of a ship on certain day(s). The argume
 - `ships`: An *IdsInput* with the ship IDs to be searched (or texts that a ship name contain if 'data' is `has_tag` is selected on `data`).
 - `days`: An integer of how many days before today the search should be. By default it takes all data available.
 ## /get_logs
-This will show all items transfered from one place to another. (Which includes Farmed -> Ship, Ship -> Destroied, Ship -> Ship).
-The aesthetical arguments, the way data will be show, are:
+This will show all items transfered from one place to another. (Which includes Farmed to Ship, Destroied from Ship, Ship to Ship).
+#### The aesthetical arguments, the way data will be show, are:
 - `order_by`: If the tree should show Sources or Destinations first.
 - `show`: 'How many data to show'
   - `Srcs/Dsts`: Will show only the sources and destinations.
@@ -24,7 +24,7 @@ The aesthetical arguments, the way data will be show, are:
   - `Zone,D,S/D`: Will show the zones, then inside each one the same as `Days,S/D`.
   - `Z-Server,All`: Same as above, but will split zones by servers (eg. "US falcon, US raven, EU falcon")
   - `Day-Hours`, `Day-30mins` and `Day-15mins`: Will only show items transfered on the respectives periods of time.
-The filter arguments, the ones that decide which data will be get or no, are (note, ejected_by may change how data is show):
+#### The filter arguments, the ones that decide which data will be get or no, are (note, ejected_by may change how data is show):
 - `start`: A *DateInput* where the search will begin.
 - `end`: A *DateInput* where the search will stop.
 - `split_by`: Defines the split character used to *IdsInput*. (default is `,`)
@@ -40,10 +40,10 @@ The filter arguments, the ones that decide which data will be get or no, are (no
 - `items`: An *IdsInput* containing the items that the search will be limited to, if empty it will get any item.
 - `zones`: An *IdsInput* containing the zones that the search will be limited to, if empty it will get any zone.
 ## /related_ships
-Will show ships that are considered related to a single ship, and ships related to related (if `recursive` is greater than 1).
+#### Will show ships that are considered related to a single ship, and ships related to related (if `recursive` is greater than 1).
 - To get the main ship insert a ship id on `main_target`.
 - `recursive` will decide how many times the search should happen (maximun is 10).
-To consider if a ship is "related" the following arguments will be used:
+#### To consider if a ship is "related" the following arguments will be used:
 - `start`: A *DateInput* where the search will begin.
 - `end`: A *DateInput* where the search will stop.
 - `types`: How many types of items was transfered.

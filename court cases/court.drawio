@@ -1,238 +1,223 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.4">
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.1.1 Chrome/132.0.6834.210 Electron/34.3.3 Safari/537.36" version="26.1.1">
   <diagram name="Página-1" id="dsQrBatp6N0RsA0Rqw-J">
-    <mxGraphModel dx="1990" dy="1253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4247" dy="2334" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s8zO3IcP-AINZmNL37FX-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="170" y="490" width="80" height="80" as="geometry" />
+        <mxCell id="s8zO3IcP-AINZmNL37FX-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="-420" y="490" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-2" value="To start a case on court." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="515" width="60" height="30" as="geometry" />
+        <mxCell id="s8zO3IcP-AINZmNL37FX-2" value="To start a case on court." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-410" y="517.5" width="60" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-6" value="At least one side is member of HL." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="310" y="550" width="120" height="80" as="geometry" />
+        <mxCell id="s8zO3IcP-AINZmNL37FX-6" value="At least one side is member of HL." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="550" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-7" value="The offence happened when at least one side was member of HL." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="310" y="435" width="120" height="80" as="geometry" />
+        <mxCell id="s8zO3IcP-AINZmNL37FX-7" value="The offence happened when at least one side was member of HL." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="435" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-9" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-9" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="530" as="sourcePoint" />
-            <mxPoint x="300" y="480" as="targetPoint" />
+            <mxPoint x="-120" y="530" as="sourcePoint" />
+            <mxPoint x="-80" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-10" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-10" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="250" y="535" as="sourcePoint" />
-            <mxPoint x="300" y="585" as="targetPoint" />
+            <mxPoint x="-120" y="530" as="sourcePoint" />
+            <mxPoint x="-80" y="585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-11" value="Unless both parties are neutral (and not members of HL or an hellene)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;fillColor=#f8cecc;strokeColor=#b85450;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="280" y="260" width="80" height="140" as="geometry" />
+        <mxCell id="s8zO3IcP-AINZmNL37FX-11" value="Unless both parties are neutral (and not members of HL or an hellene)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;fillColor=#f8cecc;strokeColor=#b85450;rotation=0;" parent="1" vertex="1">
+          <mxGeometry x="-100" y="260" width="80" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-12" value="Unless both parts are warred with HL." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="390" y="260" width="80" height="140" as="geometry" />
+        <mxCell id="s8zO3IcP-AINZmNL37FX-12" value="Unless both parts are warred with HL." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=south;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="10" y="260" width="80" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-13" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-7" target="s8zO3IcP-AINZmNL37FX-12">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-13" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="s8zO3IcP-AINZmNL37FX-7" target="s8zO3IcP-AINZmNL37FX-12" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="435" as="sourcePoint" />
-            <mxPoint x="380" y="390" as="targetPoint" />
+            <mxPoint x="-10" y="435" as="sourcePoint" />
+            <mxPoint y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-14" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-7" target="s8zO3IcP-AINZmNL37FX-11">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-14" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="s8zO3IcP-AINZmNL37FX-7" target="s8zO3IcP-AINZmNL37FX-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="435" as="sourcePoint" />
-            <mxPoint x="360" y="360" as="targetPoint" />
+            <mxPoint x="-10" y="435" as="sourcePoint" />
+            <mxPoint x="-20" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-7">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-16" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="s8zO3IcP-AINZmNL37FX-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="480" as="sourcePoint" />
-            <mxPoint x="500" y="530" as="targetPoint" />
+            <mxPoint x="120" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-17" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-6">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-17" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="s8zO3IcP-AINZmNL37FX-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="585" as="sourcePoint" />
-            <mxPoint x="500" y="530" as="targetPoint" />
+            <mxPoint x="120" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-18" value="The offender is not part of another clan." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="580" y="410" width="210" height="50" as="geometry" />
+        <mxCell id="s8zO3IcP-AINZmNL37FX-20" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;The external(s) clan(s)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;doesnt accept tickets from HL.&lt;/span&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="580" y="300" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-20" value="Other clan(s) where&lt;div&gt;offender is doesnt accept tickets from HL.&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="580" y="470" width="210" height="50" as="geometry" />
+        <mxCell id="s8zO3IcP-AINZmNL37FX-24" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;The external(s) clan(s)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;doesnt enforce&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;such law.&lt;/span&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="580" y="360" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-24" value="Other clan(s) where&lt;div&gt;offender is doesnt enforce&lt;br&gt;such law.&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="580" y="540" width="210" height="50" as="geometry" />
+        <mxCell id="s8zO3IcP-AINZmNL37FX-25" value="&lt;span style=&quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;The extenal(s) clan(s)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;agrees on a breach but declines to engage in resolution.&lt;/span&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="580" y="420" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-25" value="Other clan(s) where&lt;div&gt;offender is&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;agrees on a breach but declines to engage in resolution.&lt;/span&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="580" y="600" width="210" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-26" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-27" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="5_F8_gombTLoL3heTjFT-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="530" as="sourcePoint" />
-            <mxPoint x="570" y="440" as="targetPoint" />
+            <mxPoint x="120" y="530" as="sourcePoint" />
+            <mxPoint x="160" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-27" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-28" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="530" as="sourcePoint" />
-            <mxPoint x="570" y="620" as="targetPoint" />
+            <mxPoint x="120" y="530" as="sourcePoint" />
+            <mxPoint x="230" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-28" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-29" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="5_F8_gombTLoL3heTjFT-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="530" as="sourcePoint" />
-            <mxPoint x="570" y="560" as="targetPoint" />
+            <mxPoint x="120" y="530" as="sourcePoint" />
+            <mxPoint x="160" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-29" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="500" y="530" as="sourcePoint" />
-            <mxPoint x="570" y="500" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="s8zO3IcP-AINZmNL37FX-30" value="This 3 requires proof" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="625" y="210" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-30" value="The last 3 requires a proof of that." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="620" y="310" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-31" target="s8zO3IcP-AINZmNL37FX-36">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="s8zO3IcP-AINZmNL37FX-31" target="s8zO3IcP-AINZmNL37FX-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-31" value="A case (with offence number) should be presented to senators and dikegoros." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-31" value="A case (with offence number, victim and offender) should be presented to senators and dikegoros." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="840" y="490" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-25" target="s8zO3IcP-AINZmNL37FX-31">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="s8zO3IcP-AINZmNL37FX-25" target="s8zO3IcP-AINZmNL37FX-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="630" as="sourcePoint" />
             <mxPoint x="840" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="s8zO3IcP-AINZmNL37FX-31">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="s8zO3IcP-AINZmNL37FX-31" edge="1" source="s8zO3IcP-AINZmNL37FX-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="565" as="sourcePoint" />
             <mxPoint x="840" y="515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-20" target="s8zO3IcP-AINZmNL37FX-31">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="s8zO3IcP-AINZmNL37FX-20" target="s8zO3IcP-AINZmNL37FX-31" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="500" as="sourcePoint" />
             <mxPoint x="840" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-18" target="s8zO3IcP-AINZmNL37FX-31">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="827" y="440" as="sourcePoint" />
-            <mxPoint x="877" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-36" target="s8zO3IcP-AINZmNL37FX-39">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="s8zO3IcP-AINZmNL37FX-36" target="s8zO3IcP-AINZmNL37FX-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-36" value="The case should be accepted by one of them." style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-36" value="The case should be accepted by one of them." style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="990" y="490" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-39" target="s8zO3IcP-AINZmNL37FX-41">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="s8zO3IcP-AINZmNL37FX-39" target="s8zO3IcP-AINZmNL37FX-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-39" value="The proofs should be sent to the competent court." style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-39" value="The proofs should be sent to the competent court." style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1140" y="490" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-41" value="The dikegoroi must contact the accused side." style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-41" value="The dikegoroi must contact the accused side." style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1290" y="490" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-43" value="The accused side respond and is added to discussion." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-43" value="The accused side respond and is added to discussion." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1470" y="440" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-44" value="48 hours pass&lt;div&gt;&amp;nbsp;and no response is received.&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-44" value="48 hours pass&lt;div&gt;&amp;nbsp;and no response is received.&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1470" y="540" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-45" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-45" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1410" y="530" as="sourcePoint" />
             <mxPoint x="1460" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-46" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-41">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-46" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="s8zO3IcP-AINZmNL37FX-41" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1420" y="540" as="sourcePoint" />
             <mxPoint x="1460" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-47" target="s8zO3IcP-AINZmNL37FX-52">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="s8zO3IcP-AINZmNL37FX-47" target="s8zO3IcP-AINZmNL37FX-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-47" value="Both sides will have 3 days to discuss and send proofs." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-47" value="Both sides will have 3 days to discuss and send proofs." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1654" y="490" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-43" target="s8zO3IcP-AINZmNL37FX-47">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="s8zO3IcP-AINZmNL37FX-43" target="s8zO3IcP-AINZmNL37FX-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1600" y="485" as="sourcePoint" />
             <mxPoint x="1650" y="435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-44" target="s8zO3IcP-AINZmNL37FX-47">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="s8zO3IcP-AINZmNL37FX-44" target="s8zO3IcP-AINZmNL37FX-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1590" y="585" as="sourcePoint" />
             <mxPoint x="1640" y="535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-50" value="This time can&lt;div&gt;end early if both&amp;nbsp;&lt;/div&gt;&lt;div&gt;sides agree.&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="410" width="120" height="60" as="geometry" />
+        <mxCell id="s8zO3IcP-AINZmNL37FX-50" value="This time can&lt;div&gt;end early if both&amp;nbsp;&lt;/div&gt;&lt;div&gt;sides agree. Or if the collective power of kritai agree.&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="1636" y="380" width="156" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-51" value="" style="endArrow=none;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" target="s8zO3IcP-AINZmNL37FX-50">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-51" value="" style="endArrow=none;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" target="s8zO3IcP-AINZmNL37FX-50" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1710" y="490" as="sourcePoint" />
             <mxPoint x="1760" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-52" value="Jury must decide if accused is innocent or no." style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-52" value="Jury must decide if accused is innocent or no." style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1810" y="490" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-54" value="Anyone can advocate in court here, but Attorneys, Dikegoroi or Kriatai MUST advocate, if it is Magisterial, Senatorial or High court, respectively." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1654" y="230" width="120" height="170" as="geometry" />
+        <mxCell id="s8zO3IcP-AINZmNL37FX-54" value="Anyone can advocate in court here, but Attorneys, Dikegoroi or Kriatai MUST advocate, if it is Magisterial, Senatorial or High court, respectively." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1654" y="210" width="120" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-55" value="Victim or accused part cannot accept, unless there is nobody else that can." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;direction=south;" vertex="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-55" value="Victim or accused part cannot accept, unless there is nobody else that can." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;direction=south;" parent="1" vertex="1">
           <mxGeometry x="1015" y="340" width="70" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-56" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-36" target="s8zO3IcP-AINZmNL37FX-55">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-56" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="s8zO3IcP-AINZmNL37FX-36" target="s8zO3IcP-AINZmNL37FX-55" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1040" y="490" as="sourcePoint" />
             <mxPoint x="1090" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-57" value="Here the balance of accused side is locked." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="990" y="260" width="120" height="80" as="geometry" />
+        <mxCell id="s8zO3IcP-AINZmNL37FX-57" value="Here the balance of accused side can be locked by sigular power of kritai." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="990" y="250" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-58" value="Innocent." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-58" value="Innocent." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1990" y="470" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-59" value="Is decided what the guilty side must do to repair the offence." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-59" value="Is decided what the guilty side must do to repair the offence." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1990" y="540" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-60" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-60" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1930" y="530" as="sourcePoint" />
             <mxPoint x="1980" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-52">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="s8zO3IcP-AINZmNL37FX-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1930" y="515" as="sourcePoint" />
             <mxPoint x="1980" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-62" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-62" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2050" y="470" as="sourcePoint" />
             <mxPoint x="2050" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-63" value="3 senators agree to appeal the case." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-63" value="3 senators agree to appeal the case." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1990" y="110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-63" target="s8zO3IcP-AINZmNL37FX-39">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="s8zO3IcP-AINZmNL37FX-63" target="s8zO3IcP-AINZmNL37FX-39" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1900" y="140" as="sourcePoint" />
             <mxPoint x="1180" y="150" as="targetPoint" />
@@ -241,10 +226,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-66" value="When a case is appealed, it should go to next court.&lt;br&gt;Magisterial &amp;gt; Senate &amp;gt; High &amp;gt; ...&lt;br&gt;or&lt;br&gt;Senate &amp;gt; Senate &amp;gt; High &amp;gt; ..." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=north;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-66" value="When a case is appealed, it should go to next court.&lt;br&gt;Magisterial &amp;gt; Senate &amp;gt; High &amp;gt; ...&lt;br&gt;or&lt;br&gt;Senate &amp;gt; Senate &amp;gt; High &amp;gt; ..." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;direction=north;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="850" y="115" width="350" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-69" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-69" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2120" y="540" as="sourcePoint" />
             <mxPoint x="2080" y="200" as="targetPoint" />
@@ -254,7 +239,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-70" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="s8zO3IcP-AINZmNL37FX-71">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-70" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="s8zO3IcP-AINZmNL37FX-71" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2180" y="565" as="sourcePoint" />
             <mxPoint x="2230" y="530" as="targetPoint" />
@@ -263,43 +248,43 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-71" value="Guilty side repair the offence as decided." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-71" value="Guilty side repair the offence as decided." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2160" y="475" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-71" target="s8zO3IcP-AINZmNL37FX-58">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="s8zO3IcP-AINZmNL37FX-71" target="s8zO3IcP-AINZmNL37FX-58" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2160" y="485" as="sourcePoint" />
             <mxPoint x="2210" y="435" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-73" value="48 hours passed and nothingh was done." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-73" value="48 hours passed and nothingh was done." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="2290" y="537.5" width="110" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-74" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" target="s8zO3IcP-AINZmNL37FX-73">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-74" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" target="s8zO3IcP-AINZmNL37FX-73" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2220" y="565" as="sourcePoint" />
             <mxPoint x="2270" y="515" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-75" target="s8zO3IcP-AINZmNL37FX-71">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="s8zO3IcP-AINZmNL37FX-75" target="s8zO3IcP-AINZmNL37FX-71" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-75" value="Proscription." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-75" value="Proscription." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="2305" y="482.5" width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-76" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-75" target="s8zO3IcP-AINZmNL37FX-71">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-76" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="s8zO3IcP-AINZmNL37FX-75" target="s8zO3IcP-AINZmNL37FX-71" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2300" y="490" as="sourcePoint" />
             <mxPoint x="2350" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-73" target="s8zO3IcP-AINZmNL37FX-75">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="s8zO3IcP-AINZmNL37FX-73" target="s8zO3IcP-AINZmNL37FX-75" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2350" y="537.5" as="sourcePoint" />
             <mxPoint x="2400" y="487.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-75" target="s8zO3IcP-AINZmNL37FX-63">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-79" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" source="s8zO3IcP-AINZmNL37FX-75" target="s8zO3IcP-AINZmNL37FX-63" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2340" y="482.5" as="sourcePoint" />
             <mxPoint x="2340" y="150" as="targetPoint" />
@@ -308,20 +293,135 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-81" value="The victim at any part here can end the trial (drop the charges) and make the accused side innocent." style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-81" value="The victim at any part here can end the trial (drop the charges) and make the accused side innocent." style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="990" y="640" width="1410" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-83" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-83" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="5_F8_gombTLoL3heTjFT-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="990" y="640" as="sourcePoint" />
             <mxPoint x="990" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s8zO3IcP-AINZmNL37FX-84" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="s8zO3IcP-AINZmNL37FX-81">
+        <mxCell id="s8zO3IcP-AINZmNL37FX-84" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="5_F8_gombTLoL3heTjFT-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2400" y="640" as="sourcePoint" />
             <mxPoint x="2400" y="610" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-3" value="The victim is not proscribed." style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="490" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-5" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="5_F8_gombTLoL3heTjFT-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-340" y="530" as="sourcePoint" />
+            <mxPoint x="-270" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-170" y="529.58" as="sourcePoint" />
+            <mxPoint x="-120" y="529.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-8" value="The offender is member of HL." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="230" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-9" value="The offender is also an hellene member." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="230" y="475" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-10" value="The offender is member of an external clan and not from any hellene or HL." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="230" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="5_F8_gombTLoL3heTjFT-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="690" as="sourcePoint" />
+            <mxPoint x="840" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="780" />
+              <mxPoint x="780" y="730" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-12" value="The offender is not part of any drednot clan." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="230" y="700" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-14" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="650" as="sourcePoint" />
+            <mxPoint x="580" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-15" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="5_F8_gombTLoL3heTjFT-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="530" as="sourcePoint" />
+            <mxPoint x="190" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-16" value="The case doesnt belongs to the hellene." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="410" y="507.5" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-17" value="The case belongs to the hellene." style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;direction=west;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="410" y="570" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-18" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5_F8_gombTLoL3heTjFT-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="600" as="sourcePoint" />
+            <mxPoint x="840" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-19" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="5_F8_gombTLoL3heTjFT-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="515" as="sourcePoint" />
+            <mxPoint x="460" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-20" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5_F8_gombTLoL3heTjFT-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="304" y="610" as="sourcePoint" />
+            <mxPoint x="414" y="595" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-21" value="Should be decided by&lt;div&gt;the collective power of kritai.&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="410" y="427.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-22" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="s8zO3IcP-AINZmNL37FX-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="380" as="sourcePoint" />
+            <mxPoint x="460" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-23" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="s8zO3IcP-AINZmNL37FX-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="380" as="sourcePoint" />
+            <mxPoint x="580" y="325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-24" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#e1d5e7;strokeColor=#9673a6;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="s8zO3IcP-AINZmNL37FX-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="380" as="sourcePoint" />
+            <mxPoint x="580" y="325" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-25" value="Hellene will have 48 hours to solve." style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="560" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-26" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="5_F8_gombTLoL3heTjFT-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="620" y="596.5" as="sourcePoint" />
+            <mxPoint x="840" y="593.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-27" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="586" as="sourcePoint" />
+            <mxPoint x="840" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5_F8_gombTLoL3heTjFT-28" value="If the victim gets proscribed while the case is being processed: The case will be suspended, and can be cancelled by the colletive power of krites." style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=10;notch=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="990" y="700" width="1410" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
